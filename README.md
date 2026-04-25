@@ -87,17 +87,6 @@ The system utilizes supervised learning techniques trained on structured health 
 
 ---
 
-## Model Performance
-
-> *(Update these values based on your actual results)*
-
-| Model               | Accuracy | Precision | Recall | F1 Score |
-| ------------------- | -------- | --------- | ------ | -------- |
-| Logistic Regression | XX%      | XX%       | XX%    | XX%      |
-| Random Forest       | XX%      | XX%       | XX%    | XX%      |
-
----
-
 ## API Endpoints
 
 ### 1. Predict Diabetes Risk
